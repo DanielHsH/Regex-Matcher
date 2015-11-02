@@ -1,7 +1,3 @@
-This software was written in Visual Studio 8, during 2009, tested under windows XP 32bits.
-
-Its main purpose is educational
-------------------------------
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
